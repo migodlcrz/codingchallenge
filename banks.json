@@ -1,0 +1,17 @@
+{
+    "bank1": {
+        "name": "BPI",
+        "outsideWithdrawalCharge": 18,
+        "outsideBalanceCheckCharge": 20
+    },
+    "bank2": {
+        "name": "BDO",
+        "outsideWithdrawalCharge": 30,
+        "outsideBalanceCheckCharge": 35
+    },
+    "bank3": {
+        "name": "Unionbank",
+        "outsideWithdrawalCharge": 10,
+        "outsideBalanceCheckCharge": 8
+    }
+}
